@@ -70,13 +70,6 @@ SOC investigation workflow
 
 Wazuh detected multiple failed SSH login attempts using an invalid username.
 
-### Event Details (Table View)
-![SSH Table Event](screenshots/wazuh-table-ssh.png)
-
-### Event Details (JSON View)
-![SSH JSON Event](screenshots/Wazuh-json-ssh.png)
-
-
 ## Disclaimer
 
 This lab was conducted in a private, isolated environment for educational purposes only. No unauthorized systems were targeted.
