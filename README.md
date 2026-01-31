@@ -20,7 +20,7 @@ The server collects logs, analyzes events and generates alerts based on security
 
 ---
 
-## ⚔️ Attack Simulations Performed
+## Attack Simulations Performed
 
 The following attacker behaviors were simulated in a controlled lab environment:
 
@@ -35,7 +35,7 @@ The following attacker behaviors were simulated in a controlled lab environment:
 
 ---
 
-## 🚨 Detection Techniques Used
+## Detection Techniques Used
 
 - Log source onboarding (SSH, auth logs)
 - File Integrity Monitoring (FIM)
@@ -56,7 +56,7 @@ The following attacker behaviors were simulated in a controlled lab environment:
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 SIEM deployment and configuration  
 Endpoint log collection and analysis  
@@ -66,7 +66,7 @@ SOC investigation workflow
 
 ---
 
-## 🔍 Detection Example – SSH Brute Force Attempt
+## Detection Example – SSH Brute Force Attempt
 
 Wazuh detected multiple failed SSH login attempts using an invalid username.
 
@@ -77,6 +77,6 @@ Wazuh detected multiple failed SSH login attempts using an invalid username.
 ![SSH JSON Event](screenshots/Wazuh-json-ssh.png)
 
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This lab was conducted in a private, isolated environment for educational purposes only. No unauthorized systems were targeted.
